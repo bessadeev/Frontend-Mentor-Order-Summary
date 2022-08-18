@@ -84,7 +84,7 @@ main img{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-right: 25px;
+    margin-right: 10px;
 }
 
 .plan-img-text img{
@@ -99,7 +99,6 @@ main img{
 
 .plan-price strong{
     color: #1f2f56;
-    padding-right: 10px
 }
 
 .plan-price span{
