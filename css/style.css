@@ -84,7 +84,7 @@ main img{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-right: 5px;
+    padding-right: 25px;
 }
 
 .plan-img-text img{
